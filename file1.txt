@@ -1,3 +1,3 @@
 created first file
 made changes in local repo
-changes in github
+changes in git
